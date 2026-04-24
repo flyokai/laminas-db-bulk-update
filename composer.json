@@ -5,7 +5,7 @@
     "require": {
         "php": "^8.2",
         "laminas/laminas-db": "^2.20",
-        "flyokai/zend-db-sql-insertmultiple": "dev-dev@dev",
+        "flyokai/zend-db-sql-insertmultiple": "^1",
         "league/csv": "^9.2",
         "ext-pdo": "*"
     },
@@ -20,7 +20,7 @@
         },
         {
             "name": "Sergey Boyko",
-            "email": "sergey@flyokai.com"
+            "email": "wtsergo@gmail.com"
         }
     ],
     "autoload": {
