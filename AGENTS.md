@@ -1,5 +1,7 @@
 # flyokai/laminas-db-bulk-update
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 Efficient bulk INSERT and UPDATE operations for Laminas DB with identifier resolution, range-based chunking, and INSERT ON DUPLICATE KEY UPDATE support.
 
 ## Core Architecture
